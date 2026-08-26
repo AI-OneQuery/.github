@@ -26,6 +26,11 @@
     </tr>
 </table>
 
+## ✔ **SITE**
+- https://skaihackathon.com/sk-hackathon2026
+- https://likelion.notion.site/AI-Solution-3b344860a4f480248a67e7218a6a57b6
+- https://likelion2.typeform.com/to/QwAdYlGR?typeform-source=gw.fsklns.com
+
 
 ## 🎯 **GOAL**
 
