@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/onequery-banner.png" alt="OneQuery — 흩어진 API를 자연어 질문 하나로" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=320&section=header&text=AI%20Solution&fontSize=90&fontAlignY=35&desc=Let's%20build%20something%20with%20AI!&descAlignY=60)
+
+<img src="./assets/onequery-lockup.png" alt="OneQuery" width="360" />
 
 <br/>
 
