@@ -42,7 +42,7 @@
         <td align="center"><b>최주은</b></td>
     </tr>
     <tr>
-        <td align="center"><sub>데이터 검증</sub></td>
+        <td align="center"><sub>개발 · 데이터 검증</sub></td>
         <td align="center"><sub>기획 · 설계 · 개발</sub></td>
     </tr>
 </table>
